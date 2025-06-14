@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/docker/docker v25.0.6+incompatible
-	github.com/go-logr/logr v1.4.2
+	github.com/go-logr/logr v1.4.3
 	github.com/go-logr/zapr v1.3.0
 	github.com/ovn-org/libovsdb v0.7.0
 	github.com/spf13/viper v1.20.1
